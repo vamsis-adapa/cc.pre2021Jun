@@ -1,0 +1,24 @@
+2019:
+cf:
+154b 
+1177c
+1177d
+1169b//cant do in recursive method
+
+2020:
+
+ep2 (p 2/3)
+154b
+all of the rest
+
+ep2 (p 3/3)
+whole 
+
+
+ep3:
+p1:
+1213d2.cpp
+
+
+
+
